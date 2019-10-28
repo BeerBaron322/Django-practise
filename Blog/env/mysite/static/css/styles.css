@@ -1,0 +1,25 @@
+.logo{
+    width: 50px;
+}
+
+.menu{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right:50px;
+}
+
+.menu li{
+    margin-right: 15px;
+}
+
+.menu li:hover{
+    background-color: #99bbff;
+}
+
+.menu li a{
+    color: white;
+}
+
+.search{
+    margin-left: 420px;
+}
